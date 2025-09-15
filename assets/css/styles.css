@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: hsl(271, 97%, 76%);
+}
+ 
+#container {
+    width: 80%;
+    margin: 0px auto;
+    box-shadow: 0px 0px 10px grey;
+   background: white;
+}
+#header {
+    height: 150px;
+    background-color: hsl(224, 100%, 50%);
+}
+#logo {
+   padding: 20px;
+   margin-left: 20px;
+   float: left;
+}
+#logo img {
+    float: left;
+    height: 100px;
+    width: 120px;
+}
+#logo a {
+    float: left;
+    font-size: 40px;
+    letter-spacing: 4px ;
+    font font-family: Arial,helvetica,sans-serif;
+    text-transform: uppercase;
+   color: white;
+
+}
